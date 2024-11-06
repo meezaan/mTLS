@@ -1,6 +1,6 @@
 # Generating mTLS Keys and Certificates
 
-This is a simple script to generate mTLS keys and certificates for a root CA, server and client. It currently only generates one server and client againd the root CA.
+This is a simple script to generate mTLS keys and certificates for a root CA, server and client. It currently only generates one server and client against the root CA.
 
 You can then tweak the script as needed to generate more clients for the same server using the same root CA.
 
