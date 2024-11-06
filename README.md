@@ -26,7 +26,9 @@ CLIENT_DIR=$OUTPUT_DIR/client
 ```
 
 ### Run and Generate Certificates
+
 Run the script:
+
 ```
 sh mtls.sh
 ```
